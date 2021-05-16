@@ -1,0 +1,39 @@
+body {
+  background-color: #a3ddcb;
+}
+
+h1 {
+  color: #046582;
+}
+
+h3 {
+  color: #046582;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 10px;
+  border-height: 0px;
+  width: 90px;
+}
+
+img {
+  border-radius: 50px;
+  height: 320px;
+}
+
+td {
+  color: #0f3460;
+  font-size: 18px;
+}
+
+th {
+  color: #0f3460;
+}
+
+li {
+  color: #0f3460;
+  font-size: 18px;
+}
